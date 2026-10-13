@@ -1,3 +1,6 @@
 gitチュートリアル
 git status
 git diff
+git checkout
+git reset
+git commit
